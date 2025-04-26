@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NormalNote : MonoBehaviour
+public class BrokenNote : MonoBehaviour
 {
     public float speed = 50f;
 

@@ -1,0 +1,1146 @@
+[
+    {
+        "time": 0.0,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 0.0,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 0.417,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.25
+    },
+    {
+        "time": 0.833,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 1.25,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 1.667,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.39
+    },
+    {
+        "time": 1.667,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 2.083,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 2.083,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 2.5,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 2.917,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 3.333,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 3.75,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.44
+    },
+    {
+        "time": 3.75,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 4.167,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 4.583,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 5.0,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 5.0,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 5.417,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.17
+    },
+    {
+        "time": 5.833,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 5.833,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 6.25,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 0.96
+    },
+    {
+        "time": 6.667,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 0.99
+    },
+    {
+        "time": 7.083,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 7.083,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 7.5,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 7.917,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 7.917,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.4
+    },
+    {
+        "time": 8.333,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.75
+    },
+    {
+        "time": 8.333,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.94
+    },
+    {
+        "time": 8.75,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 8.75,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 9.167,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 0.99
+    },
+    {
+        "time": 9.167,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 9.583,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 10.0,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 10.0,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.53
+    },
+    {
+        "time": 10.417,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.91
+    },
+    {
+        "time": 10.417,
+        "key": "D",
+        "type": "hold",
+        "holdDuration": 0.93
+    },
+    {
+        "time": 10.833,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 10.833,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 11.25,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 11.667,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 12.083,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 12.5,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 12.917,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 12.917,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 13.333,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 13.75,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 13.75,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 14.167,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 14.583,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 15.0,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.05
+    },
+    {
+        "time": 15.0,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 15.417,
+        "key": "D",
+        "type": "hold",
+        "holdDuration": 0.82
+    },
+    {
+        "time": 15.417,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 15.833,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 16.25,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 16.667,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 16.667,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 17.083,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 17.5,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 17.917,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 17.917,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 18.333,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 18.75,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 19.167,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 19.583,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 19.583,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 20.0,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 20.0,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 20.417,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 20.417,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 20.833,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 21.25,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 21.25,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 21.667,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 21.667,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 22.083,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.93
+    },
+    {
+        "time": 22.5,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 22.5,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.17
+    },
+    {
+        "time": 22.917,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 22.917,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 23.333,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 23.75,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 24.167,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 24.167,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 24.583,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 0.96
+    },
+    {
+        "time": 25.0,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 25.0,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 25.417,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.51
+    },
+    {
+        "time": 25.833,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 26.25,
+        "key": "D",
+        "type": "hold",
+        "holdDuration": 1.2
+    },
+    {
+        "time": 26.667,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 26.667,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 27.083,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 27.5,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 27.917,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.74
+    },
+    {
+        "time": 28.333,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 28.333,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.76
+    },
+    {
+        "time": 28.75,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 28.75,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 29.167,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 29.167,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 29.583,
+        "key": "D",
+        "type": "hold",
+        "holdDuration": 1.09
+    },
+    {
+        "time": 30.0,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 30.0,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 0.93
+    },
+    {
+        "time": 30.417,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.41
+    },
+    {
+        "time": 30.417,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 30.833,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 30.833,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 31.25,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 31.25,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 31.667,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 31.667,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 32.083,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 32.083,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 32.5,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.75
+    },
+    {
+        "time": 32.5,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 32.917,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 33.333,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 33.75,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 33.75,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 34.167,
+        "key": "D",
+        "type": "hold",
+        "holdDuration": 0.87
+    },
+    {
+        "time": 34.167,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 34.583,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 0.9
+    },
+    {
+        "time": 35.0,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.11
+    },
+    {
+        "time": 35.417,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 35.417,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 35.833,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 35.833,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 36.25,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 36.25,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 36.667,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 36.667,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 37.083,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 37.5,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 37.917,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 38.333,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 38.75,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.69
+    },
+    {
+        "time": 39.167,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.4
+    },
+    {
+        "time": 39.583,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 39.583,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.65
+    },
+    {
+        "time": 40.0,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 40.417,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.18
+    },
+    {
+        "time": 40.417,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 40.833,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 41.25,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 41.25,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 41.667,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.9
+    },
+    {
+        "time": 41.667,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 42.083,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 42.5,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 42.5,
+        "key": "D",
+        "type": "hold",
+        "holdDuration": 0.93
+    },
+    {
+        "time": 42.917,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.92
+    },
+    {
+        "time": 43.333,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 43.75,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 43.75,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.49
+    },
+    {
+        "time": 44.167,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 44.583,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.17
+    },
+    {
+        "time": 44.583,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 45.0,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 45.417,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 45.833,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 45.833,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 46.25,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.58
+    },
+    {
+        "time": 46.25,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 46.667,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 0.81
+    },
+    {
+        "time": 46.667,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 47.083,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 47.083,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 47.5,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 47.5,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.22
+    },
+    {
+        "time": 47.917,
+        "key": "G",
+        "type": "quick"
+    },
+    {
+        "time": 47.917,
+        "key": "C",
+        "type": "quick"
+    },
+    {
+        "time": 48.333,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 48.333,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.76
+    },
+    {
+        "time": 48.75,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 49.167,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 49.167,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 49.583,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 50.0,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 50.417,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 50.417,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 50.833,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 51.25,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 51.667,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 51.667,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 52.083,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 52.083,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 0.9
+    },
+    {
+        "time": 52.5,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 52.917,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 52.917,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 53.333,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 53.333,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 53.75,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 53.75,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 54.167,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 54.167,
+        "key": "E",
+        "type": "broken"
+    },
+    {
+        "time": 54.583,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 55.0,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 55.417,
+        "key": "C",
+        "type": "broken"
+    },
+    {
+        "time": 55.417,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.05
+    },
+    {
+        "time": 55.833,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 56.25,
+        "key": "D",
+        "type": "hold",
+        "holdDuration": 0.97
+    },
+    {
+        "time": 56.667,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 56.667,
+        "key": "D",
+        "type": "normal"
+    },
+    {
+        "time": 57.083,
+        "key": "E",
+        "type": "normal"
+    },
+    {
+        "time": 57.083,
+        "key": "G",
+        "type": "hold",
+        "holdDuration": 1.71
+    },
+    {
+        "time": 57.5,
+        "key": "D",
+        "type": "broken"
+    },
+    {
+        "time": 57.5,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.17
+    },
+    {
+        "time": 57.917,
+        "key": "C",
+        "type": "normal"
+    },
+    {
+        "time": 58.333,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 58.75,
+        "key": "D",
+        "type": "quick"
+    },
+    {
+        "time": 58.75,
+        "key": "G",
+        "type": "broken"
+    },
+    {
+        "time": 59.167,
+        "key": "E",
+        "type": "quick"
+    },
+    {
+        "time": 59.167,
+        "key": "C",
+        "type": "hold",
+        "holdDuration": 1.38
+    },
+    {
+        "time": 59.583,
+        "key": "G",
+        "type": "normal"
+    },
+    {
+        "time": 60.0,
+        "key": "E",
+        "type": "hold",
+        "holdDuration": 1.29
+    }
+]

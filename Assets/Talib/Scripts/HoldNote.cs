@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class HoldNote : MonoBehaviour
 {
-    public float speed = 5f;
+    public float speed = 50f;
     private float holdDuration;
     private bool isHolding = false;
     private float holdTimer = 0f;
@@ -12,9 +12,6 @@ public class HoldNote : MonoBehaviour
     public void SetHoldDuration(float duration)
     {
         holdDuration = duration;
-        Vector3 scale = transform.localScale;
-        scale.y += holdDuration; // Stretch vertically based on hold duration
-        transform.localScale = scale;
     }
 
     void Update()
@@ -54,26 +51,6 @@ public class HoldNote : MonoBehaviour
                 Debug.Log("Hold failed! Released too early!");
             }
             Destroy(gameObject);
-        }
-    }
-
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("HitZone"))
-        {
-            isInHoldZone = true;
-        }
-    }
-
-    void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag("HitZone"))
-        {
-            isInHoldZone = false;
-            if (!isHolding)
-            {
-                Destroy(gameObject); // Missed hold
-            }
         }
     }
 }
