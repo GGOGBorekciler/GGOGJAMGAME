@@ -71,7 +71,10 @@ public class NoteSpawner : MonoBehaviour
         }
 
         int lane = keyToLane.ContainsKey(data.key) ? keyToLane[data.key] : 0;
-        Vector3 spawnPosition = new Vector3(200 + lane * laneSpacing, spawnHeight, 0);
+
+
+        /////////// THIS PART IS PROBLEMATIC ////////////////////
+        Vector3 spawnPosition = canvas.position + new Vector3((lane - 2) * laneSpacing, spawnHeight, 0);
         GameObject note = Instantiate(prefabToSpawn, spawnPosition, Quaternion.identity, canvas);
 
         if (data.type == "hold")
